@@ -1,0 +1,22 @@
+{
+  "name": "mock4",
+  "version": "1.0.0",
+  "description": "Mock Deplyment",
+  "main": "server.js",
+  "scripts": {
+    "start":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akarshabhardwaj/Mock4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akarshabhardwaj/Mock4/issues"
+  },
+  "homepage": "https://github.com/akarshabhardwaj/Mock4#readme",
+  "dependencies": {
+    "json-server": "^0.17.2"
+  }
+}

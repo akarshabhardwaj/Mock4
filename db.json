@@ -1,0 +1,78 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Johncena",
+        "email": "Johncena@gmail.com",
+        "password": "John123",
+        "reset_password": "John123"
+      },
+      {
+        "name": "Appy",
+        "email": "akarsha@gmail.com",
+        "password": "Appy123",
+        "reset_password": "Appy123",
+        "id": 2
+      },
+      {
+        "name": "Akarsha",
+        "email": "bhardwajakarsha@gmail.com",
+        "password": "akarsha",
+        "reset_password": "akarsha",
+        "id": 3
+      },
+      {
+        "name": "RandyOrton",
+        "email": "orton@gmail.com",
+        "password": "orton",
+        "reset_password": "orton",
+        "id": 4
+      }
+    ],
+    "hotels": [
+      {
+        "id": 1,
+        "category": "Deluxe",
+        "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+        "type_of_room": "AC",
+        "bed_type": "Double",
+        "no_of_persons": "2",
+        "capacity": "4",
+        "cost": "8999",
+        "booked": true
+      },
+      {
+        "category": "Deluxe",
+        "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+        "type_of_room": "AC",
+        "bed_type": "Single",
+        "no_of_persons": "4",
+        "capacity": "5",
+        "cost": "2999",
+        "id": 2,
+        "booked": false
+      },
+      {
+        "category": "Family",
+        "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+        "type_of_room": "AC",
+        "bed_type": "Double",
+        "no_of_persons": "4",
+        "capacity": "5",
+        "cost": "1999",
+        "booked": false,
+        "id": 3
+      },
+      {
+        "category": "Deluxe",
+        "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+        "type_of_room": "NON-AC",
+        "bed_type": "Single",
+        "no_of_persons": "7",
+        "capacity": "8",
+        "cost": "1000",
+        "booked": false,
+        "id": 4
+      }
+    ]
+  }
